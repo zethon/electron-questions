@@ -1,4 +1,14 @@
-# electron-quick-start-typescript
+# electron-questions
+
+## Intro
+
+This repository is a collection of questions and answers about using Typsescript with Electron. 
+
+Open questions are presented as PRs with code changes explaining what I would like to do. The PRs are then discussed and the code is updated to reflect the solution.
+
+This repository was originally cloned from: https://github.com/electron/electron-quick-start-typescript
+
+## Running the Code
 
 **Clone and run for a quick way to see Electron in action.**
 
